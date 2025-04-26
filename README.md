@@ -2,19 +2,6 @@
 
 To use Helios plase visit one of the OFFICIAL links below, or click the "Download Helios-Offline" option in the menu dropdown. you can also go through the file tree in the repository and download the "Helios-Offline.html" file to get the same result, and for more options check the [How To Use section](#How-To-Use). If you want to look at some screenshots of Helios before using it just scroll down to the [Screenshots section](#Screenshots).
 
-## ***`Official Links`***
-
-- https://helios-browser.vercel.app/ (immediate auto updates)
-  
-- https://helios-blue.vercel.app/ (immediate auto updates)
-  
-- https://helios-browser.rf.gd (constant updates. if it says the site is insecure just ignore it, i probably forgot to renew the SSL certifcate)
-  
-- https://helios-browser.w3spaces.com/ (sorry guys im broke, so only 500 requests per month :< ) (this link is VERY far behind other links because of this)
-  
-- https://helios-browser.pages.dev/ (immediate auto updates. if it says the site is insecure just ignore it, i probably forgot to renew the SSL certifcate)
-  
-- https://helios-browser.ct.ws (constant updates)
   
 ## ***`How To Use`***
 
@@ -28,7 +15,6 @@ alternatively:
 3. open the file in your browser (broser in a browser haha).
 4. go crazy!
 
-***Note: this file can not be blocked unless your admin physically deletes the file off of your device, which was the main point of Helios, and i STRONGLY recomend doing this.**
 
 alternatively alternatively:
 
@@ -51,10 +37,6 @@ alternatively alternatively alternatively:
 
 ***Note: To extend the life of your codespace link visit your profile settings, go to the Codespaces tab, and change the "Default idle timeout" time from 30 minutes to 240 minutes, which is the maximum time.**
 
-## ***`Deploy This Project`***
-Vercel:
- 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdinguschan-owo%2FHelios%2Ftree%2Fmain%2F)
 
 ## ***`Features`***
 
