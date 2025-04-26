@@ -3348,10 +3348,6 @@ function handleSearchOrNavigation(input, tabIndex) {
         const selectedEngine = document.getElementById(`selected-engine-${tabIndex}`).alt;
         let searchUrl;
         switch (selectedEngine) {
-            case '4get':
-                searchUrl = `https://4get.ca/web?q=${encodeURIComponent(input.replace(/\s+/g, '+'))}`;
-                break;
-            case 'Google':
                 searchUrl = `https://www.google.com/search?q=${encodeURIComponent(input.replace(/\s+/g, '+'))}`;
                 break;
             case 'Bing':
